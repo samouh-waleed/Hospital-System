@@ -1,4 +1,4 @@
 # Description
-Used Java to create a well-organized and developed hospital system from scratch. Learnt about System Design and JUnit Testing best practices
+Used Java to create a well-organized and developed hospital system from scratch. 
 # What I leanred
-Learend a lot about executing a good system design, developing test cases, and implementing automated test cases
+Learnt about System Design and JUnit Testing best practices.
